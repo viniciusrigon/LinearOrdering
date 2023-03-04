@@ -1,0 +1,9 @@
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\bin\Debug\GRASP.dll
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\bin\Debug\GRASP.pdb
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\bin\Debug\AircraftLandingParser.dll
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\bin\Debug\AircraftLandingParser.pdb
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\obj\Debug\GRASP.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\obj\Debug\GRASP.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\obj\Debug\GRASP.csproj.CopyComplete
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\obj\Debug\GRASP.dll
+C:\Users\vinic\source\repos\LinearOrdering\GRASP\obj\Debug\GRASP.pdb

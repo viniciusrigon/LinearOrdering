@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\LinearOrdering.exe.config
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\LinearOrdering.exe
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\LinearOrdering.pdb
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\AircraftLandingParser.dll
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\GRASP.dll
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\AircraftLandingParser.pdb
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\bin\Debug\GRASP.pdb
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrderingConsole.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrderingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrderingConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrderingConsole.csproj.CopyComplete
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrdering.exe
+C:\Users\vinic\source\repos\LinearOrdering\LinearOrderingConsole\obj\Debug\LinearOrdering.pdb

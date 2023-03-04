@@ -1,0 +1,6 @@
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\bin\Debug\AircraftLandingParser.dll
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\bin\Debug\AircraftLandingParser.pdb
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\obj\Debug\LinearOrderingParser.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\obj\Debug\LinearOrderingParser.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\obj\Debug\AircraftLandingParser.dll
+C:\Users\vinic\source\repos\LinearOrdering\AircraftLandingParser\obj\Debug\AircraftLandingParser.pdb
